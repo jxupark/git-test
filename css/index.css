@@ -203,7 +203,7 @@ h2 small{
 
 .portlist div{
     background-color: #fff;
-    overflow: hidden;
+ 
 }
 
 
@@ -218,7 +218,9 @@ h2 small{
     color:#999;
 }
 
-
+.portlist div figure img{
+    width: 100%;
+}
 /* contact */
 
 .contact{
